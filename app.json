@@ -1,0 +1,18 @@
+{
+    "expo": {
+     "name": "Alarme IOT",
+     "icon": "./assets/icon.png",
+     "version": "5.0.0",
+     "slug": "iot-alarm",
+     "ios": {
+       "bundleIdentifier": "com.iot.alarm.samilkalu",
+       "buildNumber": "1.0.5"
+     },
+     "android": {
+         
+       "package": "com.iot.alarm.samilkalu",
+       "versionCode": 5,
+       "googleServicesFile": "./google-services.json"
+     }
+    }
+  }

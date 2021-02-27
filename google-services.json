@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "184039573598",
+    "firebase_url": "https://iot-alarm-9b18a-default-rtdb.firebaseio.com",
+    "project_id": "iot-alarm-9b18a",
+    "storage_bucket": "iot-alarm-9b18a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184039573598:android:47b038899843b8baf08ccf",
+        "android_client_info": {
+          "package_name": "com.iot.alarm.samilkalu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184039573598-q0rrjj958cvta3rqsg8n2k54i7uoqcgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6nmmgjDQlYbV-nAFWugNQIIPMpkwl0So"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184039573598-q0rrjj958cvta3rqsg8n2k54i7uoqcgu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "184039573598-d3cfkem8sijgv29n09r0nk7tf4oj33rl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "samil.kalu.iot.alarm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

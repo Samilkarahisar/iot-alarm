@@ -14,3 +14,8 @@ Une fois terminé, on lance le projet avec la commande "expo start"
 ________________
 
 Dans ce repo il y'a également le script serveur utilisé pour l'envoi des notifications push, hébérgé sur un serveur linux. Il s'agit du fichier serveurPush.js
+
+________________Build stable APK________
+
+Un build stable de la derniere version de l'application est disponible ici:
+https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40karahisar/iot-alarm-8d20471980b543408007520895a963a2-signed.apk

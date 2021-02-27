@@ -13,4 +13,4 @@ Une fois terminé, on lance le projet avec la commande "expo start"
 
 ________________
 
-Dans ce repo il y'a également le script serveur utilisé pour l'envoi des notifications push, hébérgé sur un serveur linux. Il s'agit du fichier serveurPush.js?
+Dans ce repo il y'a également le script serveur utilisé pour l'envoi des notifications push, hébérgé sur un serveur linux. Il s'agit du fichier serveurPush.js
